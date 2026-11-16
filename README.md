@@ -1,3 +1,4 @@
+### Project archived. Working on my own framework.
 # Modern-IoT-Scanner
 A cool and modern IoT scanner :D happy skidding :D :D :D :D, jokes aside below is the real readme, unless ????
 
